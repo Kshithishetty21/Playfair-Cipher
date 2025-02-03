@@ -17,4 +17,4 @@ The Playfair Cipher is a digraph substitution cipher, meaning it encrypts pairs 
 - Another sample output with repeated alphabets: 
 - ![image](https://github.com/user-attachments/assets/82305d82-1590-4f29-8368-20f3286926d2)
 ## References
-{Playfair Cipher}[https://medium.com/@sabikchamp/playfair-cipher-984f8e289ab9]
+[Playfair Cipher(Click me for better understanding)](https://medium.com/@sabikchamp/playfair-cipher-984f8e289ab9])
